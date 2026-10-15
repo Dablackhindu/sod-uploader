@@ -3,3 +3,5 @@ h1{font-size:28px;margin:0 0 8px}h2{font-size:19px;margin-top:28px}
 nav{display:flex;gap:16px;margin-bottom:28px;font-size:14px}a{color:#2347a8}
 footer{margin-top:40px;font-size:13px;color:#66706b}
 @media (prefers-color-scheme:dark){body{background:#141816;color:#e7ebe8}a{color:#7f9cf0}footer{color:#9aa49f}}
+.yt{display:flex;gap:12px;align-items:center;margin-top:28px;padding:14px;border:1px solid #d9ddd8;border-radius:8px}
+.yt svg{flex:none}
